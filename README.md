@@ -7,3 +7,4 @@ Links, documents and information related to Remote Pilots License (Part 107)
 
 1. https://jrupprechtlaw.com/get-faa-drone-pilot-license-first-time-current-pilots
 2. https://jrupprechtlaw.com/part-107-test-study-guide
+3. https://www.faa.gov/training_testing/testing/supplements/media/sport_rec_private_akts.pdf
